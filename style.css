@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+#map{
+    height: 100vh;
+}
+
+#togglelist {
+    margin: 1rem;
+}
+
+.offcanvas-body {
+    padding-left: 0;
+    padding-right: 0;
+}
+
